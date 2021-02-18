@@ -7,4 +7,4 @@ range: 'January 2021 - Present'
 url: ''
 ---
 
-- An unoficial school club located at Dublin High School that specializes in organizing hackathons.
+- An unofficial school club located at Dublin High School that specializes in organizing hackathons.
