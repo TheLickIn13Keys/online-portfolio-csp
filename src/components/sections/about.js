@@ -173,7 +173,7 @@ const About = () => {
               clients.
             </p>
 
-            <p>'Shockingly', I also have interests outside of technology:</p>
+            <p>I also have interests outside of technology:</p>
             <p>
               - I love watching and playing sports like basketball, American Football, and baseball.
             </p>
