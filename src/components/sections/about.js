@@ -162,7 +162,7 @@ const About = () => {
 
             <p>
               On the software side, I develop applications mainly on the server side, with the
-              occasional web, desktop, or mobile app. In terms of IT and Cybersecurity, I have
+              occasional web, desktop, or mobile app. In terms of IT and Cybersecurity, I am working on
               certifications from CompTIA and Cisco. In addition, I've participated in multiple
               cybersecurity competitions and have recently closed commissions for penetration
               testing.
