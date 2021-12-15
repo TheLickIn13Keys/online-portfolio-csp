@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the internet.</h3>;
   const four = (
     <p>
-      I'm a High School freshman currently attending Dublin High School. I'm a Fullstack Developer,
+      I'm a High School Sophomore currently attending Dublin High School. I'm a Fullstack Developer,
       Certified IT Engineer, and a Penetration Tester.
     </p>
   );
