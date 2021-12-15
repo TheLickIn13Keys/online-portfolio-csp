@@ -156,7 +156,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Bardia, a Freshman fullstack developer, Certified IT Engineer and
+              Hello! I'm Bardia, a Sophomore fullstack developer, Certified IT Engineer and
               Penetration Tester based in the Bay Area.
             </p>
 
