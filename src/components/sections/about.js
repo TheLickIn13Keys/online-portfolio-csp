@@ -138,14 +138,17 @@ const About = () => {
     'Node.js',
     'Java',
     'Javascript',
+    'Python',
     'Dart',
     'Unity',
     'C/C++/C#',
     'Rust',
     'SQL, MongoDB, Redis',
     'HTMl & CSS & EJS',
-    'Custom Mechanical Keyboard Building',
+    'Cybersecurity',
+    'REST APIs',
     'Internal Combustion Engines',
+    'and more!'
   ];
 
   return (
@@ -156,40 +159,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Bardia, a Sophomore fullstack developer, Certified IT Engineer and
-              Penetration Tester based in the Bay Area.
+            Hello! I'm Bardia, a Sophomore full stack developer, Certified IT Engineer and AP CSP Student based in the Bay Area.
             </p>
 
             <p>
-              On the software side, I develop applications mainly on the server side, with the
-              occasional web, desktop, or mobile app. In terms of IT and Cybersecurity, I am working on
-              certifications from CompTIA and Cisco. In addition, I've participated in multiple
-              cybersecurity competitions and have recently closed commissions for penetration
-              testing.
+            On the software side, I develop applications mainly on the server side, with the occasional web, desktop, or mobile app. In terms of IT and Cybersecurity, I am working on certifications from CompTIA and Cisco. In addition, I've participated in multiple cybersecurity competitions and currently offer paid hosting on my homelab. In school I’m currently taking AP Computer Science Principles and AP European History. Next year I’m taking AP Computer Science Applications, AP Environmental Science, AP Calculus AB, AP United States History, and Honors English. As an undergraduate student I plan to take a computer related major, such as computer science or computer engineering. Afterwards, I plan on getting a Master’s degree in something like Aerospace Engineering or Nuclear Engineering. I’m still debating whether or not I should pursue a PHD afterwards, but I’ll make the decision when it comes to it.
             </p>
 
             <p>
-              Currently I'm a cloud hosting provider and I administer servers and databases for
-              clients.
+              Most of my work and experience is done on the internet as a predominantly open-source developer, but I've recently taken a job at The Coder School, where I teach younger kids introductory programming concepts. Outside of Computer Engineering, I also have experience with Mechanical Engineering, as I’ve modified a regular bicycle with a gasoline engine, which can reach speed of over 40 MPH.
             </p>
 
-            <p>I also have interests outside of technology:</p>
-            <p>
-              - I love watching and playing sports like basketball, American Football, and baseball.
-            </p>
-            <p>- I'm very active politically and I identify as a leftist.</p>
-            <p>
-              - I'm an avid 'historian' and I love studying the past and its implications on the
-              future.
-            </p>
-            <p>- I'm a Jazz Guitarist, currently in my school's Jazz Program.</p>
-
-            <p>
-              Heritage-wise, I'm Persian with both my parents immigrating from Iran in the 20th
-              century, making me a first generation born in the United States.
-            </p>
-
-            <p>Here's some of the stuff I've been working with recently:</p>
+            <p>Here are some of my main skills:</p>
           </div>
 
           <ul className="skills-list">
