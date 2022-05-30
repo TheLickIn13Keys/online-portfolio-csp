@@ -105,8 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/TheLickIn13Keys/v4/">
-          <div>Designed by B. Chiang. Forked and Modified for use by Bardia Anvari ♥.</div>
+        <a href="https://github.com/TheLickIn13Keys/online-portfolio-csp/">
+          <div>Click Me for this website's repository ♥</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

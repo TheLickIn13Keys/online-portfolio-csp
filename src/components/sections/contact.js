@@ -51,7 +51,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm always looking forward to new opportunities and my inbox and DMs are always open! Also
+        I'm always looking forward to new opportunities and my inbox and DMs are always open! Connect with me on <a href="https://www.linkedin.com/in/bardia-anvari/">LinkedIn</a> and
         make sure to join my <a href="https://discord.gg/ns3RHwz">Discord Server!</a>
       </p>
 

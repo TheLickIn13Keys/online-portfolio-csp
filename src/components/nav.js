@@ -193,7 +193,7 @@ const Nav = ({ isHome }) => {
                 <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
                   <a
                     className="resume-button"
-                    href="/resume.pdf"
+                    href="https://docs.google.com/document/d/1LODi15g3Io-glKs_w6fUp1YLFD1HEhrS_8olllt7Ggc/edit?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer">
                     Resume

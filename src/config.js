@@ -22,7 +22,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Carrer Exploration',
+      name: 'Career Exploration',
       url: '/#jobs',
     },
     {
