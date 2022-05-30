@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "portfolio",
+  "description": "Online Portfolio for AP CSP",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "bardia",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/TheLickIn13Keys/online-portfolio-csp"
   },
   "keywords": [
     "gatsby"
